@@ -2,7 +2,7 @@
 
 A beginner's book for the script operator in data flows
 
-Oct 6, 2026 · @Fantes
+Oct 6, 2026 · @chesterrush
 
 ## Preface
 
